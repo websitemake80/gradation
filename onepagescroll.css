@@ -22,19 +22,7 @@ section
   
 
 }
-.one h1{ position: relative;
-        left: 500px;
 
-
-    align-items: center;
-}
-.one h2
-{
-    position: relative;
-    bottom: -150px;
-    right: 20px;
-
-}
 .container
 {
     scroll-snap-type: y mandatory;
